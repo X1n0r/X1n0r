@@ -1,53 +1,60 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/VtoxD1Xv4K0Ua2Ww3R/giphy.gif" width="100%" alt="Grey Matrix"/>
+  
+  <h1 align="center">Salut, sunt un Developer Pasionat 💻</h1>
+  <h3 align="center">Bine ai venit în spațiul meu!</h3>
+</div>
 
-# 👤 **X1N0R** | Hacker & CyberSecurity Professional
+<br/>
 
----
+<div align="center">
+  <i>„Wake up... The Matrix has you...”</i>
+</div>
 
-## 🎩 Despre Mine
-Salut! Sunt **X1N0R**, un pasionat de securitate cibernetică și hacking etic! Am experiență în:
-- 🔍 **OSINT** (Open Source Intelligence)
-- 🛡️ **Penetration Testing** (Testare de penetrare)
-- � **Securitate Rețele**
-- � **Dezvoltare Tool-uri Securitate**
-- 💻 **Programare Python, C++ și Bash**
+<br/>
 
----
+### 🛠️ Tech Stack & Skills
 
-## �️ Imagine Profil
-![X1N0R - Hacker](https://techukraine.org/wp-content/uploads/2022/08/anonymous-hackers-1600x900-1-1024x576-1.jpg)
+Aici găsești uneltele cu care scriu cod în fiecare zi:
 
----
+<p align="center">
+  <!-- C/C++ -->
+  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=222222" />
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white&color=222222" />
+  <!-- Lua -->
+  <img src="https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=white&color=222222" />
+  <!-- HTML -->
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white&color=222222" />
+  <!-- CSS -->
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white&color=222222" />
+  <!-- JSON -->
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white&color=222222" />
+  <!-- JS -->
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white&color=222222" />
+  <!-- Git -->
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white&color=222222" />
+</p>
 
-## � Statistici GitHub
-![Statistici X1N0R](https://github-readme-stats.vercel.app/api?username=X1N0R&show_icons=true&theme=matrix)
-![Top Limbaje](https://github-readme-stats.vercel.app/api/top-langs/?username=X1N0R&theme=matrix)
+### 📊 GitHub Stats
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&bg_color=000000&text_color=999999&icon_color=cccccc&title_color=ffffff" alt="GitHub Stats" />
+  <br/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true&background=000000&ring=cccccc&fire=cccccc&currStreakNum=999999&sideNums=777777&sideLabels=555555" alt="GitHub Streak" />
+</div>
 
-## 🛠️ Proiecte Populare
-- 🌑 **Dark Hole**: Toolkit all-in-one pentru securitate cibernetică
-- 🔒 **[Proiect 1]**: *(adaugă aici)*
-- 🚀 **[Proiect 2]**: *(adaugă aici)*
+### 🌐 Conectează-te cu mine
+<p align="center">
+  <a href="mailto:email-ul-tau@exemplu.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white&color=222222" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&color=222222" alt="LinkedIn" />
+  </a>
+</p>
 
----
-
-## � Contactează-Mă
-- **GitHub**: https://github.com/X1N0R
-- **Discord**: X1N0R#0001 *(adaugă tag-ul tău)*
-- **Email**: x1nor@proton.me *(adaugă email-ul tău)*
-
----
-
-## � Filozofia Mea
-> *"Securitatea nu este un produs, este un proces!"*
-> 
-> *"Fiecare zi înveți ceva nou în domeniul cybersecurity!"*
-
----
-
-## 🌌 Tema Matrix
-Această pagină folosește tema **Matrix Green** pentru un vibe de cyberpunk autentic! 🟢
-
----
-**Foloseste puterea cunoștințelor în mod responsabil!** 💀
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=333333&height=150&section=footer&text=Keep%20Coding!&fontSize=24&fontColor=888888" width="100%"/>
+</div>
