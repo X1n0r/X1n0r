@@ -1,87 +1,53 @@
 
-# 🌑 **Dark Hole** - Toolkit All-in-One pentru Securitate Cibernetică
+# 👤 **X1N0R** | Hacker & CyberSecurity Professional
 
 ---
 
-## 📌 Descriere
-**Dark Hole** este un toolkit complet pentru OSINT, rețele, Discord, Windows și multe altele! Conține unelte pentru:
-- 🔍 **OSINT**: Căutare informații despre email, telefon, IP, username, domenii
-- 🌐 **Rețele**: Scanare porturi, enumerare DNS, brute-force FTP, monitor trafic, testare încărcare etică
-- 🎮 **Discord**: Token brute-force, raid tools, spam webhook, ștergere DM-uri
-- 🪟 **Windows**: Dezactivare Windows Defender, eliminare bloatware, ștergere fișiere temp, vizualizare info sistem
-- 🧪 **Alte unelte**: Clonare website, generator token-uri Discord, generator IP-uri puternic, framework OSINT cu peste 900.000 de resurse!
+## 🎩 Despre Mine
+Salut! Sunt **X1N0R**, un pasionat de securitate cibernetică și hacking etic! Am experiență în:
+- 🔍 **OSINT** (Open Source Intelligence)
+- 🛡️ **Penetration Testing** (Testare de penetrare)
+- � **Securitate Rețele**
+- � **Dezvoltare Tool-uri Securitate**
+- 💻 **Programare Python, C++ și Bash**
 
 ---
 
-## 📁 Structură Proiect
-```
-Dark Hole/
-├── main.py                       # Programul principal
-├── settings/                     # Folder cu fișiere de configurare
-│   ├── sites.json               # 900k+ site-uri pentru username OSINT
-│   ├── osint_framework.json     # Framework OSINT complet
-│   ├── subdomains.txt           # Lista subdomenii pentru enumerare
-│   └── requirements.txt         # Dependențe Python
-├── __pycache__/                 # Fișiere cache (generate automat)
-└── README.md                    # Acest fișier
-```
+## �️ Imagine Profil
+![X1N0R - Hacker](https://techukraine.org/wp-content/uploads/2022/08/anonymous-hackers-1600x900-1-1024x576-1.jpg)
 
 ---
 
-## 🚀 Instalare și Rulare
-
-### 1. Instalează Python (dacă nu ai deja)
-Descarcă Python de la https://python.org și asigură-te că bifezi "Add Python to PATH" în timpul instalării!
-
-### 2. Instalează dependențele
-```bash
-pip install -r settings/requirements.txt
-```
-
-### 3. Rulează programul!
-```bash
-python main.py
-```
+## � Statistici GitHub
+![Statistici X1N0R](https://github-readme-stats.vercel.app/api?username=X1N0R&show_icons=true&theme=matrix)
+![Top Limbaje](https://github-readme-stats.vercel.app/api/top-langs/?username=X1N0R&theme=matrix)
 
 ---
 
-## ⚙️ Dependențe Principale
-- `requests`: Cereri HTTP
-- `rich`: Tabele și interfață frumoasă
-- `psutil`: Monitorizare sistem și trafic
-- `beautifulsoup4`: Parsare HTML pentru website cloner
+## 🛠️ Proiecte Populare
+- 🌑 **Dark Hole**: Toolkit all-in-one pentru securitate cibernetică
+- 🔒 **[Proiect 1]**: *(adaugă aici)*
+- 🚀 **[Proiect 2]**: *(adaugă aici)*
 
 ---
 
-## ⚠️ Important
-**Toate uneltele sunt pentru scopuri educaționale și pentru utilizare pe resursele tale proprii!**
-- NU utiliza aceste unelte pentru activități ilegale!
-- Respectă termenii și condițiile fiecărui serviciu!
-- Autorul nu este responsabil de utilizarea incorectă a uneltelor!
+## � Contactează-Mă
+- **GitHub**: https://github.com/X1N0R
+- **Discord**: X1N0R#0001 *(adaugă tag-ul tău)*
+- **Email**: x1nor@proton.me *(adaugă email-ul tău)*
 
 ---
 
-## 👾 Caracteristici Interfață
-- Tema neagră/negru cu culori vii (cyan, verde, galben, roșu)
-- Navigare ușoară între pagini cu tastele `[B]` (Înapoi) și `[N]` (Înainte)
-- Afișare tabele frumoase folosind biblioteca `rich`
-- Prezență de spinner pentru task-uri care durează mai mult!
-- Prevenire închidere accidentală cu confirmare la `Ctrl+C`!
+## � Filozofia Mea
+> *"Securitatea nu este un produs, este un proces!"*
+> 
+> *"Fiecare zi înveți ceva nou în domeniul cybersecurity!"*
 
 ---
 
-## 📝 Contribuții
-Contribuțiile sunt binevenite! Deschide un Issue sau Pull Request dacă ai sugestii sau erori!
+## 🌌 Tema Matrix
+Această pagină folosește tema **Matrix Green** pentru un vibe de cyberpunk autentic! 🟢
 
 ---
+**Foloseste puterea cunoștințelor în mod responsabil!** 💀
 
-## 🌟 Recunoașteri
-Folosește și menționează proiectul dacă ți-a fost util!
-
----
-
-## 💬 Server Discord Oficial
-Alătură-te serverului nostru Discord pentru suport și actualizări! *(adaugă link-ul aici)*
-
----
-**Made with 💀 and Python**
